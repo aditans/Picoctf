@@ -78,6 +78,6 @@ Decrypts a Fernet token. If successfully decrypted you will receive the original
 ![Alt text](image-4.png)
 
 9. Replace the xxxxxxxx in **"picoCTF{1n_7h3_|<3y_of_XXXXXXXX}"** by **"0d208392"** and we get our flag.
-10. You can check this by entering this value in the "enter license key" menu.
+10. 10. You can check this by entering this value in the "enter license key" menu.
     
 ![Alt text](image-5.png)
