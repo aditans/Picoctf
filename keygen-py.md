@@ -62,13 +62,22 @@ Decrypts a Fernet token. If successfully decrypted you will receive the original
 3. Run the keygenme-trial.py file
 4. Create a notepad doc and write **"picoCTF{1n_7h3_|<3y_of_XXXXXXXX}"**
 5. Open another python window and write the following:
+   
 ![Alt text](image-1.png)
+
 6. Run the above program and note the output ( Its the hash for the byte string freeman ).
+   
 ![Alt text](image-2.png)
+
 7. Run another program like this:
+
 ![Alt text](image-3.png)
+
 8. Note its output, its the answer to the xxxxxxxx
+
 ![Alt text](image-4.png)
+
 9. Replace the xxxxxxxx in **"picoCTF{1n_7h3_|<3y_of_XXXXXXXX}"** by **"0d208392"** and we get our flag.
 10. You can check this by entering this value in the "enter license key" menu.
+    
 ![Alt text](image-5.png)
